@@ -2730,13 +2730,13 @@ let capt = `⭔ Title: ${judul}
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *ArullOfc*
-> Nomor : *https://wa.me/6285822347348*
+> Name : *Dielieger*
+> Nomor : *https://wa.me/6283123047649*
 > Umur : *18*
-> Region : *Indonesia 🇲🇨*
+> Region : *Indonesian*
 > Hobyy : *Gtw*
-> Made in : *Kalimantan Selatan*
-> Nama Asli : *Sahrull... Private*
+> Server By : *Dielieger*
+> Power Up : *Railway Server*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
